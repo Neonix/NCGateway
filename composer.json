@@ -1,14 +1,14 @@
 {
-    "name": "api-platform/api-platform",
+    "name": "ncgateway/api-platform",
     "license": "MIT",
     "type": "project",
-    "description": "The API Platform framework",
-    "homepage": "https://api-platform.com",
+    "description": "NC Gateway API Platform",
+    "homepage": "http://oneshot.nc",
     "authors": [
         {
-            "name": "Kévin Dunglas",
-            "email": "dunglas@gmail.com",
-            "homepage": "https://dunglas.fr"
+            "name": "Oneshot",
+            "email": "contact@oneshot.nc",
+            "homepage": "http://oneshot.nc"
         }
     ],
     "autoload": {
